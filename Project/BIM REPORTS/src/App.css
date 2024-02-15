@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 2.2rem;
+  margin-bottom: 40px;
+  margin-top: 24px;
+}
+
+.headerBIM {
+  background-color: #003140;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15),
+    0 2px 1px -5px rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.2);
+}
